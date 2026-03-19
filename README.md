@@ -1,5 +1,7 @@
 # SUSTech Blackboard Downloader Pro v2.4 🕊️
-
+<p align="center">
+  <img src="dove.jpg" width="150">
+</p>
 > **Language / 語言 / Langue :** > [🇭🇰 繁體中文](#-繁體中文) | [🇺🇸 English](#-english) | [🇫🇷 Français](#-français)
 
 ---
